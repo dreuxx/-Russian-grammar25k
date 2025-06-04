@@ -22,7 +22,7 @@
 
 ## Code of Conduct
 
-This project adheres to the **[Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)**. By participating, you are expected to uphold this code. Please report unacceptable behavior to [your-email@example.com](mailto:your-email@example.com).
+This project adheres to the **[Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)**. By participating, you are expected to uphold this code.
 
 ---
 
@@ -117,7 +117,7 @@ Before you submit a PR, make sure:
 
 | GitHub                                   | Role            |
 | ---------------------------------------- | --------------- |
-| [@dreuxx26](https://github.com/dreuxx26) | Lead maintainer |
+| [@dreuxx26](https://github.com/dreuxx) | Lead maintainer |
 | *TBD*                                    | Reviewer        |
 
 Feel free to reach out via GitHub issues or discussions. Happy contributing! 🙌

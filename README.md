@@ -122,7 +122,7 @@ You may **share** and **adapt** the data for any purpose, even commercially, as 
   title        = {Russian Grammar Error‑Correction Dataset},
   year         = 2025,
   howpublished = {GitHub},
-  url          = {https://github.com/your‑repo/russian‑gec‑dataset}
+  url          = {https://github.com/dreuxx/russian‑gec‑dataset}
 }
 ```
 

@@ -1,1 +1,7 @@
-
+@misc{russianGEC2025,
+  author       = {Dreux X.},
+  title        = {Russian Grammar Error‑Correction Dataset},
+  year         = 2025,
+  howpublished = {GitHub},
+  url          = {https://github.com/dreuxx/russian‑gec‑dataset}
+}
